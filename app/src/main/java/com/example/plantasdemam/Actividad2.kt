@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.bottomnavigation.BottomNavigationView
-import com.example.plantas.R
+import com.example.plantasdemam.R
 
 class Actividad2 : AppCompatActivity() {
 

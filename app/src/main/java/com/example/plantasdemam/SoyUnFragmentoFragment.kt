@@ -11,7 +11,7 @@ import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.TextView
 import androidx.fragment.app.Fragment
-import com.example.plantas.R
+import com.example.plantasdemam.R
 
 class SoyUnFragmentoFragment : Fragment() {
 
